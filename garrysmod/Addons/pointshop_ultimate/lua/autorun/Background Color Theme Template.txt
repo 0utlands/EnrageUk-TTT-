@@ -1,0 +1,35 @@
+/* ───────────────────────────────────
+	Background Color Part ( White )
+─────────────────────────────────── */
+	-- Main Title
+		UPS_Config.BGCol.MainTitle = Color(220,220,220,255)
+		
+	-- Preview 
+		UPS_Config.BGCol.Preview = Color(120,120,120,255)
+		
+	-- DSWButtons ( almost every buttons )
+		UPS_Config.BGCol.DSWButton = Color(200,200,200,100)
+
+	-- Shop
+		UPS_Config.BGCol.ShopCanvasBG = Color(230,230,230,255)
+		UPS_Config.BGCol.ShopLeftCanvasBG = Color(230,230,230,255)
+		UPS_Config.BGCol.ShopTitleBG = Color(255,255,255,255)
+		UPS_Config.BGCol.ShopFilterLister = Color(180,180,180,255)
+		UPS_Config.BGCol.ShopItemsLister = Color(180,180,180,255)
+		
+	-- Inventory
+		UPS_Config.BGCol.INVCanvasBG = Color(230,230,230,255)
+		UPS_Config.BGCol.INVLeftCanvasBG = Color(230,230,230,255)
+		UPS_Config.BGCol.INVTitleBG = Color(255,255,255,255)
+		UPS_Config.BGCol.INVFilterLister = Color(180,180,180,255)
+		UPS_Config.BGCol.INVItemsLister = Color(180,180,180,255)
+		
+	-- Admin Panel
+		UPS_Config.BGCol.AP_CanvasBG = Color(200,200,200,255)
+	
+	-- Give Points
+		UPS_Config.BGCol.GP_TitleBG = Color(200,200,200,255)
+		UPS_Config.BGCol.GP_BodyBG = Color(200,200,200,255)
+	
+	-- Color Chooser
+		UPS_Config.BGCol.CC_Canvas = Color(200,200,200,255)

@@ -1,0 +1,278 @@
+/* ───────────────────────────────────
+	Color Part ( Blue & Black )
+─────────────────────────────────── */
+
+	-- Preview 
+		UPS_Config.Col.PV = {}
+		
+		-- Ring FXs
+			UPS_Config.Col.PV.FootRing = Color(0,255,255,255)
+			UPS_Config.Col.PV.BurstRing = Color(0,200,255,255)
+
+		-- Information ( Zoom , height )
+			UPS_Config.Col.PV.Zoom = Color(0,150,255,255)
+			UPS_Config.Col.PV.ZoomBar = Color(0,255,255,255)
+			
+			UPS_Config.Col.PV.Height = Color(0,150,255,255)
+			UPS_Config.Col.PV.HeightBar = Color(0,255,255,255)
+		
+	-- Item Icon
+		UPS_Config.Col.IC = {}
+		UPS_Config.Col.IC.BackGround = Color(0,50,255,5)
+
+	-- Main
+		UPS_Config.Col.MN = {}
+			-- Top Title
+			UPS_Config.Col.MN.PointShopText = Color(0,200,255,255)
+			UPS_Config.Col.MN.UlimateText = Color(0,255,255,255)
+			UPS_Config.Col.MN.Creators = Color(100,150,255,255)
+			UPS_Config.Col.MN.ButtomLine = Color(0,150,255,255)
+			
+			-- DSWButtons ( almost buttons )
+			UPS_Config.Col.MN.DSWBoarderCol = Color(0,150,255,255)
+			UPS_Config.Col.MN.DSWTextCol = Color(255,255,255,255)
+			UPS_Config.Col.MN.DSWClickFX = Color(0,150,255,255)
+			
+			-- Scroll Bars
+			UPS_Config.Col.MN.SCBarOutLine = Color(0,150,255,255)
+			
+	-- Shop
+		UPS_Config.Col.SP = {}
+		UPS_Config.Col.SP.ShopTitle = Color(0,255,255,255)
+		UPS_Config.Col.SP.MyPoints = Color(100,200,255,255)
+		UPS_Config.Col.SP.FilterTitleText = Color(100,200,255,255)
+		
+		-- Lists
+			UPS_Config.Col.LST_ItemName = Color(0,200,255,255)
+			UPS_Config.Col.LST_ItemPrice = Color(150,150,255,255)
+			UPS_Config.Col.LST_ButtomLine = Color(0,200,255,20)
+			UPS_Config.Col.LST_ItemHoverCol = Color(0,50,120,255)
+			
+	-- Inventory
+		UPS_Config.Col.INV = {}
+		UPS_Config.Col.INV.INVTitle = Color(0,255,255,255)
+		UPS_Config.Col.INV.FilterTitleText = Color(100,200,255,255)
+		
+		-- Lists
+			UPS_Config.Col.INV_LST_ItemName = Color(0,200,255,255)
+			UPS_Config.Col.INV_LST_ItemRefund = Color(150,150,255,255)
+			UPS_Config.Col.INV_LST_EquippedText = Color(150,150,255,255)
+			UPS_Config.Col.INV_LST_ButtomLine = Color(0,200,255,20)
+			UPS_Config.Col.INV_LST_ItemHoverCol = Color(0,50,120,255)
+	
+	-- Admin Panel
+		UPS_Config.Col.AP = {}
+		UPS_Config.Col.AP.TitleText = Color(0,255,255,255)
+		UPS_Config.Col.AP.List_No = Color(0,255,255,255)
+		UPS_Config.Col.AP.List_PlayerNick = Color(0,200,255,255)
+		UPS_Config.Col.AP.List_PlayerPoints = Color(0,255,255,255)
+		UPS_Config.Col.AP.List_PlayerItems = Color(0,255,255,255)
+		UPS_Config.Col.AP.List_ButtomLine = Color(0,150,255,50)
+	
+	-- Point Give Menu
+	UPS_Config.Col.PG = {}
+	UPS_Config.Col.PG.Main_OutLine = Color(0,150,255,255)
+	UPS_Config.Col.PG.Main_TitleText = Color(0,220,255,255)
+	
+	-- Color Chooser Menu
+	UPS_Config.Col.CC = {}
+	UPS_Config.Col.CC.Main_OutLine = Color(0,150,255,255)
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/* ───────────────────────────────────
+	Color Part ( Orange & Black )
+─────────────────────────────────── */
+
+	-- Preview 
+		UPS_Config.Col.PV = {}
+		
+		-- Ring FXs
+			UPS_Config.Col.PV.FootRing = Color(255,50,0,255)
+			UPS_Config.Col.PV.BurstRing = Color(255,120,0,255)
+
+		-- Information ( Zoom , height )
+			UPS_Config.Col.PV.Zoom = Color(255,50,0,255)
+			UPS_Config.Col.PV.ZoomBar = Color(255,125,0,255)
+			
+			UPS_Config.Col.PV.Height = Color(255,50,0,255)
+			UPS_Config.Col.PV.HeightBar = Color(255,125,0,255)
+		
+	-- Item Icon
+		UPS_Config.Col.IC = {}
+		UPS_Config.Col.IC.BackGround = Color(255,50,0,5)
+
+	-- Main
+		UPS_Config.Col.MN = {}
+			-- Top Title
+			UPS_Config.Col.MN.PointShopText = Color(255,200,0,255)
+			UPS_Config.Col.MN.UlimateText = Color(255,50,0,255)
+			UPS_Config.Col.MN.Creators = Color(255,150,0,255)
+			UPS_Config.Col.MN.ButtomLine = Color(255,255,0,255)
+			
+			-- DSWButtons ( almost buttons )
+			UPS_Config.Col.MN.DSWBoarderCol = Color(255,150,0,255)
+			UPS_Config.Col.MN.DSWTextCol = Color(255,255,255,255)
+			UPS_Config.Col.MN.DSWClickFX = Color(255,150,0,255)
+			
+			-- Scroll Bars
+			UPS_Config.Col.MN.SCBarOutLine = Color(255,150,0,255)
+			
+	-- Shop
+		UPS_Config.Col.SP = {}
+		UPS_Config.Col.SP.ShopTitle = Color(255,255,0,255)
+		UPS_Config.Col.SP.MyPoints = Color(255,120,0,255)
+		UPS_Config.Col.SP.FilterTitleText = Color(255,200,0,255)
+		
+		-- Lists
+			UPS_Config.Col.LST_ItemName = Color(255,200,0,255)
+			UPS_Config.Col.LST_ItemPrice = Color(255,125,0,255)
+			UPS_Config.Col.LST_ButtomLine = Color(255,200,0,20)
+			UPS_Config.Col.LST_ItemHoverCol = Color(150,20,0,255)
+			
+	-- Inventory
+		UPS_Config.Col.INV = {}
+		UPS_Config.Col.INV.INVTitle = Color(255,255,0,255)
+		UPS_Config.Col.INV.FilterTitleText = Color(255,200,0,255)
+		
+		-- Lists
+			UPS_Config.Col.INV_LST_ItemName = Color(255,200,0,255)
+			UPS_Config.Col.INV_LST_ItemRefund = Color(255,125,0,255)
+			UPS_Config.Col.INV_LST_EquippedText = Color(255,255,0,255)
+			UPS_Config.Col.INV_LST_ButtomLine = Color(255,200,0,20)
+			UPS_Config.Col.INV_LST_ItemHoverCol = Color(150,20,0,255)
+	
+	-- Admin Panel
+		UPS_Config.Col.AP = {}
+		UPS_Config.Col.AP.TitleText = Color(255,255,0,255)
+		UPS_Config.Col.AP.List_No = Color(255,255,0,255)
+		UPS_Config.Col.AP.List_PlayerNick = Color(255,200,0,255)
+		UPS_Config.Col.AP.List_PlayerPoints = Color(255,255,0,255)
+		UPS_Config.Col.AP.List_PlayerItems = Color(255,255,0,255)
+		UPS_Config.Col.AP.List_ButtomLine = Color(255,150,0,50)
+	
+	-- Point Give Menu
+	UPS_Config.Col.PG = {}
+	UPS_Config.Col.PG.Main_OutLine = Color(255,150,0,255)
+	UPS_Config.Col.PG.Main_TitleText = Color(255,220,0,255)
+	
+	-- Color Chooser Menu
+	UPS_Config.Col.CC = {}
+	UPS_Config.Col.CC.Main_OutLine = Color(255,150,0,255)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/* ───────────────────────────────────
+	Color Part ( Green & Black )
+─────────────────────────────────── */
+
+	-- Preview 
+		UPS_Config.Col.PV = {}
+		
+		-- Ring FXs
+			UPS_Config.Col.PV.FootRing = Color(0,255,0,255)
+			UPS_Config.Col.PV.BurstRing = Color(150,255,0,255)
+
+		-- Information ( Zoom , height )
+			UPS_Config.Col.PV.Zoom = Color(50,255,0,255)
+			UPS_Config.Col.PV.ZoomBar = Color(125,255,0,255)
+			
+			UPS_Config.Col.PV.Height = Color(50,255,0,255)
+			UPS_Config.Col.PV.HeightBar = Color(125,255,0,255)
+		
+	-- Item Icon
+		UPS_Config.Col.IC = {}
+		UPS_Config.Col.IC.BackGround = Color(50,255,0,5)
+
+	-- Main
+		UPS_Config.Col.MN = {}
+			-- Top Title
+			UPS_Config.Col.MN.PointShopText = Color(0,255,0,255)
+			UPS_Config.Col.MN.UlimateText = Color(200,255,0,255)
+			UPS_Config.Col.MN.Creators = Color(0,255,120,200)
+			UPS_Config.Col.MN.ButtomLine = Color(0,255,0,255)
+			
+			-- DSWButtons ( almost buttons )
+			UPS_Config.Col.MN.DSWBoarderCol = Color(0,255,0,255)
+			UPS_Config.Col.MN.DSWTextCol = Color(255,255,255,255)
+			UPS_Config.Col.MN.DSWClickFX = Color(0,255,0,255)
+			
+			-- Scroll Bars
+			UPS_Config.Col.MN.SCBarOutLine = Color(0,255,0,255)
+			
+	-- Shop
+		UPS_Config.Col.SP = {}
+		UPS_Config.Col.SP.ShopTitle = Color(0,255,0,255)
+		UPS_Config.Col.SP.MyPoints = Color(120,255,0,255)
+		UPS_Config.Col.SP.FilterTitleText = Color(0,200,0,255)
+		
+		-- Lists
+			UPS_Config.Col.LST_ItemName = Color(0,255,0,255)
+			UPS_Config.Col.LST_ItemPrice = Color(170,200,0,255)
+			UPS_Config.Col.LST_ButtomLine = Color(0,255,0,20)
+			UPS_Config.Col.LST_ItemHoverCol = Color(30,150,0,255)
+			
+	-- Inventory
+		UPS_Config.Col.INV = {}
+		UPS_Config.Col.INV.INVTitle = Color(0,255,0,255)
+		UPS_Config.Col.INV.FilterTitleText = Color(0,200,0,255)
+		
+		-- Lists
+			UPS_Config.Col.INV_LST_ItemName = Color(0,255,0,255)
+			UPS_Config.Col.INV_LST_ItemRefund = Color(170,200,0,255)
+			UPS_Config.Col.INV_LST_EquippedText = Color(0,255,150,255)
+			UPS_Config.Col.INV_LST_ButtomLine = Color(0,255,0,20)
+			UPS_Config.Col.INV_LST_ItemHoverCol = Color(30,150,0,255)
+	
+	-- Admin Panel
+		UPS_Config.Col.AP = {}
+		UPS_Config.Col.AP.TitleText = Color(0,255,0,255)
+		UPS_Config.Col.AP.List_No = Color(0,255,0,255)
+		UPS_Config.Col.AP.List_PlayerNick = Color(0,200,0,255)
+		UPS_Config.Col.AP.List_PlayerPoints = Color(0,255,0,255)
+		UPS_Config.Col.AP.List_PlayerItems = Color(0,255,0,255)
+		UPS_Config.Col.AP.List_ButtomLine = Color(150,255,0,50)
+	
+	-- Point Give Menu
+	UPS_Config.Col.PG = {}
+	UPS_Config.Col.PG.Main_OutLine = Color(0,255,0,255)
+	UPS_Config.Col.PG.Main_TitleText = Color(220,255,0,255)
+	
+	-- Color Chooser Menu
+	UPS_Config.Col.CC = {}
+	UPS_Config.Col.CC.Main_OutLine = Color(120,255,0,255)
